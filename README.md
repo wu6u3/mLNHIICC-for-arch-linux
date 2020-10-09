@@ -1,5 +1,5 @@
 # mLNHIICC-for-arch-linux
-Taiwan National Health Insurance Card (台灣健保卡網路服務) on Arch Linux x86
+Taiwan National Health Insurance Card (台灣健保卡網路服務) Smart Card Reader on Arch Linux x86_64
 
 This is the scripts for installing the National Health Insurance Card for the online service. 
 
@@ -72,8 +72,11 @@ sudo chmod 755 Install
 ```
 sudo /usr/local/share/NHIICC/mLNHIICC &
 ```
-7. 點選網上 檢測健保卡認證 就可以順利讀卡以及連線
+7. 點選網上 檢測健保卡認證 就可以順利讀卡(記得插入健保卡)以及連線
 
+Testing Env:
+Arch Linux x86_64 (Sep-26-2020)
+Chrome 85.0.4183.121
 
 
 
