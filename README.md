@@ -62,7 +62,7 @@ Reference:
 5. Replace the script for install
 ``` 
 cd mLNHIICC_Setup
-mv <path_to_this_git_repo>/Install_arch_linux_64 Install
+mv <path_to_this_git_repo>/Install_arch_linux_64.sh Install
 sudo chmod 755 Install
 ./Install
 ``` 
