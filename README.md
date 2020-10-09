@@ -75,11 +75,11 @@ sudo /usr/local/share/NHIICC/mLNHIICC &
 7. 點選網上 檢測健保卡認證 就可以順利讀卡(記得插入健保卡)以及連線
 
 ### Testing Enviroment:
-####Linux: 
-*Arch Linux x86_64 (Sep-26-2020)
+#### Linux
+Arch Linux x86_64 (Sep-26-2020)
 #### Web browser
-*Chrome 85.0.4183.121
-*Firefox 81.0
+Chrome 85.0.4183.121
+Firefox 81.0
 
 
 
