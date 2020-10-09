@@ -44,7 +44,7 @@ Fri Oct ... <Time>
 ```
 
 Reference:
-[1]. [ARCHLINUX下用WEBATM轉帳](https://dd-han.tw/2016/archlinux-webatm)
+[1]. [ARCHLINUX下用WEBATM轉帳](http://dd-han.tw/2016/archlinux-webatm)
 [2]. [ArchLinux 晶片讀卡機的安裝](https://w2b2.blogspot.com/2012/06/archlinux.html)
 
 
