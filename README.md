@@ -70,7 +70,7 @@ sudo chmod 755 Install
 6. 點網頁上 "步驟2:設定伺服器為可信任服務"
 並且
 ```
-sudo /usr/local/share/NHIICC/mLNHIICC &
+sudo /usr/local/share/NHIICC/mLNHIICC
 ```
 7. 點選網上 檢測健保卡認證 就可以順利讀卡(記得插入健保卡)以及連線
 
